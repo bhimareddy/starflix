@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Route, Routes, BrowserRouter } from 'react-router-dom';
+import { HashRouter as Route, Routes, BrowserRouter } from 'react-router-dom';
 import LoginPage from './Authentication/LoginPage';
 import Home from './Pages/Home'
 import MovieItem from './Component/MovieItem';
