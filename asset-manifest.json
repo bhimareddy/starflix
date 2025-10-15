@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starflix/static/css/main.bb606532.css",
+    "main.js": "/starflix/static/js/main.0480d876.js",
+    "static/js/453.ee044d8d.chunk.js": "/starflix/static/js/453.ee044d8d.chunk.js",
+    "static/media/logo.svg": "/starflix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/starflix/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/starflix/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/starflix/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/starflix/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/starflix/index.html",
+    "main.bb606532.css.map": "/starflix/static/css/main.bb606532.css.map",
+    "main.0480d876.js.map": "/starflix/static/js/main.0480d876.js.map",
+    "453.ee044d8d.chunk.js.map": "/starflix/static/js/453.ee044d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb606532.css",
+    "static/js/main.0480d876.js"
+  ]
+}
