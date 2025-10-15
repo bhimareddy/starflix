@@ -26,15 +26,15 @@ function App() {
        <Route path="/Movies" element={<Movies />} />
        <Route path="/TvShow" element={<TvShow />} />
        <Route path='/New' element={<New/>}/>
-       <Route path="/" element={<MovieItem />} />
+       {/* <Route path="/" element={<MovieItem />} /> */}
         <Route path="/movie/:title" element={<HeaderPage />} />
         <Route path="/MovieItem/:title" element={<MovieItem />} />
         <Route path='/Account'element={<Account />} />
-      <Route path="/" element={<MovieItem />} />
+      {/* <Route path="/" element={<MovieItem />} /> */}
         <Route path="/Tvshow/:title" element={<TvshowPages />} />
          <Route path='/Moredetail' element={<Moredetail/>}/>
          <Route path='/Search' element={<Search/>}/>
-         <Route path="/" element={<TvShow />} />
+         {/* <Route path="/" element={<TvShow />} /> */}
         <Route path="/Tvshowdetail/:title" element={<TvShowdetail />} />
     </Routes>
    </BrowserRouter>
